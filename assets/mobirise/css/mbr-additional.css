@@ -1,5 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Didact+Gothic:400&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Space+Mono:400,400i,700,700i&display=swap);
 
 
 
@@ -9,7 +8,7 @@ body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Space Mono', monospace;
   font-size: 4.25rem;
   font-display: swap;
 }
@@ -17,7 +16,7 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Space Mono', monospace;
   font-size: 3rem;
   font-display: swap;
 }
@@ -25,7 +24,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Didact Gothic', sans-serif;
+  font-family: 'Space Mono', monospace;
   font-size: 0.8rem;
   font-display: swap;
 }
@@ -33,7 +32,7 @@ body {
   font-size: 1.28rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Space Mono', monospace;
   font-size: 2.25rem;
   font-display: swap;
 }
@@ -41,12 +40,12 @@ body {
   font-size: 3.6rem;
 }
 .display-7 {
-  font-family: 'Didact Gothic', sans-serif;
-  font-size: 1.25rem;
+  font-family: 'Space Mono', monospace;
+  font-size: 1rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 2rem;
+  font-size: 1.6rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -547,12 +546,12 @@ a:hover {
   border-radius: 100px;
 }
 .form-control {
-  font-family: 'Didact Gothic', sans-serif;
-  font-size: 1.25rem;
+  font-family: 'Space Mono', monospace;
+  font-size: 1rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 2rem;
+  font-size: 1.6rem;
 }
 blockquote {
   border-color: #ffffff;
@@ -2081,7 +2080,7 @@ section.lazy-placeholder:after {
 }
 .cid-rFYfbXdqMp .mbr-section-subtitle {
   color: #767676;
-  text-align: left;
+  text-align: right;
   letter-spacing: 3px;
 }
 .cid-rFYfbXdqMp .mbr-section-subtitle B {
@@ -4030,7 +4029,7 @@ section.lazy-placeholder:after {
   color: #ffffff !important;
 }
 .cid-s00vOpeFvs {
-  background-image: url("../../../assets/images/shuzm-web-cover-2.png");
+  background-image: url("../../../assets/images/shuzm-web-cover-4.png");
 }
 .cid-rG4Zju0ftC {
   padding-top: 30px;
@@ -8302,8 +8301,9 @@ section.lazy-placeholder:after {
   text-align: right;
 }
 .cid-s1Y6MHSiaR H2 {
-  text-align: left;
+  text-align: center;
   letter-spacing: 7px;
+  color: #d1adb1;
 }
 .cid-s1YkHXaBbI {
   padding-top: 0px;
@@ -8797,9 +8797,9 @@ section.lazy-placeholder:after {
   text-align: right;
 }
 .cid-s1YHC2PSg0 H2 {
-  text-align: left;
+  text-align: center;
   letter-spacing: 7px;
-  color: #232323;
+  color: #d1adb1;
 }
 .cid-s1YHC5rT9o {
   padding-top: 0px;
@@ -9297,8 +9297,9 @@ section.lazy-placeholder:after {
   color: #232323;
 }
 .cid-s1YJ4E6tQK H2 {
-  text-align: left;
+  text-align: center;
   letter-spacing: 7px;
+  color: #d1adb1;
 }
 .cid-s1YJ4Esaqb {
   padding-top: 0px;
@@ -10705,8 +10706,9 @@ section.lazy-placeholder:after {
   text-align: right;
 }
 .cid-s1Yp2oeR8B H2 {
-  text-align: left;
+  text-align: center;
   letter-spacing: 7px;
+  color: #d1adb1;
 }
 .cid-s1Yp2oHoSX {
   padding-top: 0px;
@@ -11205,8 +11207,9 @@ section.lazy-placeholder:after {
   text-align: right;
 }
 .cid-s1YoTX20wH H2 {
-  text-align: left;
+  text-align: center;
   letter-spacing: 7px;
+  color: #d1adb1;
 }
 .cid-s1YoTXp0jL {
   padding-top: 0px;
@@ -12159,8 +12162,9 @@ section.lazy-placeholder:after {
   letter-spacing: 3px;
 }
 .cid-s1YxgL1500 H2 {
-  text-align: left;
+  text-align: center;
   letter-spacing: 7px;
+  color: #d1adb1;
 }
 .cid-s1YxgLuRpA {
   padding-top: 0px;
