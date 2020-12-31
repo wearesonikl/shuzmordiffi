@@ -14097,6 +14097,21 @@ section.lazy-placeholder:after {
 .cid-s00vOpeFvs {
   background-image: url("../../../assets/images/shuzm-web-cover-4.png");
 }
+.cid-skI4PJTpbT {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-color: #d1adb1;
+}
+.cid-skI4PJTpbT P {
+  color: #767676;
+}
+.cid-skI4PJTpbT H1 {
+  color: #ffffff;
+}
+.cid-skI4PJTpbT .mbr-text,
+.cid-skI4PJTpbT .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-s99e28KJra {
   padding-top: 135px;
   padding-bottom: 60px;
@@ -14158,7 +14173,8 @@ section.lazy-placeholder:after {
 .cid-s99cWge58a .step {
   width: 60px;
   height: 60px;
-  font-size: 30px;
+  font-size: 17px;
+  color: #ffffff;
   border-radius: 50%;
   border: 2px solid #ffffff;
 }
