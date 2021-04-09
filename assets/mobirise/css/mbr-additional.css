@@ -13635,7 +13635,7 @@ section.lazy-placeholder:after {
   color: #ffffff !important;
 }
 .cid-s00vOpeFvs {
-  background-image: url("../../../assets/images/shuzm-logo-2021-web-header-1.png");
+  background-image: url("../../../assets/images/shuzm-logo-2021-web-header-3.png");
 }
 .cid-su4ftNosZQ {
   padding-top: 135px;
@@ -13673,7 +13673,7 @@ section.lazy-placeholder:after {
     width: 100%;
   }
   .cid-su4ftNosZQ .card-wrapper .card-box .bottom-line p {
-    text-align: center;
+    text-align: left;
     margin: 1rem 0 0 0;
   }
 }
@@ -13682,6 +13682,7 @@ section.lazy-placeholder:after {
 }
 .cid-su4ftNosZQ .b-descr {
   color: #ffffff;
+  text-align: left;
 }
 .cid-su4ftNosZQ H2 {
   color: #ffffff;
